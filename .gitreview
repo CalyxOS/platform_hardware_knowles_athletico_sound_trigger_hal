@@ -1,0 +1,5 @@
+[gerrit]
+host=review.calyxos.org
+port=29418
+project=CalyxOS/platform_hardware_knowles_athletico_sound_trigger_hal
+defaultbranch=android12L
